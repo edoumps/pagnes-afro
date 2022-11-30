@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  price: 9.99
+  image_url_1: MyString
+  image_url_2: MyString
+  image_url_3: MyString
+  image_url_4: MyString
+  image_url_5: MyString
+  is_featured: false
+  is_sold_out: false
+  collection_date: MyString
+
+two:
+  title: MyString
+  description: MyText
+  price: 9.99
+  image_url_1: MyString
+  image_url_2: MyString
+  image_url_3: MyString
+  image_url_4: MyString
+  image_url_5: MyString
+  is_featured: false
+  is_sold_out: false
+  collection_date: MyString
